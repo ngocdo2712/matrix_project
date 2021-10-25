@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603462328 source:d:\assignment\asm3\assigment3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1591790000 d:\assignment\asm3\assigment3\queue.h
+	<stdint.h>
+	<string.h>
+
+1591789992 d:\assignment\asm3\assigment3\queue.c
+	"queue.h"
+
